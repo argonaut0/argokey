@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name "W25QJVSSIQ")(type "KiCad")(uri "${KIPRJMOD}/libraries/W25QJVSSIQ/footprints.pretty")(options "")(descr ""))
   (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP2040/footprints.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/W25Q16JVSSIQ/footprints.pretty")(options "")(descr ""))
 )
