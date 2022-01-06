@@ -1,5 +1,4 @@
 (sym_lib_table
   (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP2040/RP2040.kicad_sym")(options "")(descr ""))
   (lib (name "KeySwitch")(type "KiCad")(uri "${KIPRJMOD}/libraries/KeySwitch/KeySwitch.kicad_sym")(options "")(descr ""))
-  (lib (name "W25Q16JVSSIQ")(type "Legacy")(uri "${KIPRJMOD}/libraries/W25Q16JVSSIQ/W25Q16JVSSIQ.lib")(options "")(descr ""))
 )
