@@ -1,4 +1,5 @@
 (fp_lib_table
-  (lib (name "W25QJVSSIQ")(type "KiCad")(uri "${KIPRJMOD}/libraries/W25QJVSSIQ/footprints.pretty")(options "")(descr ""))
   (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP2040/footprints.pretty")(options "")(descr ""))
+  (lib (name "key_switch")(type "KiCad")(uri "${KIPRJMOD}/libraries/KeySwitch/key_switch.pretty")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP2040Minimal/RP2040_minimal.pretty")(options "")(descr ""))
 )
