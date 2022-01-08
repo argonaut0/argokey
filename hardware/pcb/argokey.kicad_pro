@@ -119,7 +119,11 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8
       ],
       "via_dimensions": [
         {
@@ -353,7 +357,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -363,7 +367,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.15,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
@@ -408,25 +412,24 @@
           "GND",
           "GPIO 19",
           "GPIO 20",
-          "GPIO25",
-          "GPIO_19",
           "GPIO_22",
           "GPIO_23",
           "GPIO_24",
+          "GPIO_25",
           "GPIO_26",
           "GPIO_27",
           "GPIO_28",
           "GPIO_29",
+          "Net-(R10-Pad1)",
           "Net-(R5-Pad2)",
+          "Net-(R9-Pad1)",
           "OLED_SCL",
           "OLED_SDA",
           "Row 0",
           "Row 1",
           "Row 2",
           "Row 3",
-          "Row 4",
-          "USB_D+",
-          "USB_D-"
+          "Row 4"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -450,7 +453,28 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.381,
+        "track_width": 0.8,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "USB",
+        "nets": [
+          "USB_D+",
+          "USB_D-"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.4,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
