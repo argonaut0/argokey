@@ -368,8 +368,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "via_diameter": 0.6,
+        "via_drill": 0.35,
         "wire_width": 6.0
       },
       {
@@ -410,8 +410,7 @@
           "Col 8",
           "Col 9",
           "GND",
-          "GPIO 19",
-          "GPIO 20",
+          "GPIO_19",
           "GPIO_22",
           "GPIO_23",
           "GPIO_24",
