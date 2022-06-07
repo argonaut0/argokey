@@ -1736,7 +1736,6 @@
     )
   )
 
-
   (junction (at 118.11 124.968) (diameter 0) (color 0 0 0 0)
     (uuid 013bb06a-a41f-4569-b360-42335f28a343)
   )
@@ -2081,9 +2080,6 @@
   )
   (junction (at 185.42 58.928) (diameter 0) (color 0 0 0 0)
     (uuid c2a27ca5-aa1a-41e1-9202-8a53af9f16ed)
-  )
-  (junction (at 185.674 272.288) (diameter 0) (color 0 0 0 0)
-    (uuid c470a533-a5b4-4685-b84f-a0460e5f5708)
   )
   (junction (at 62.23 89.408) (diameter 0) (color 0 0 0 0)
     (uuid c4c6b33b-9748-4b99-9c4a-816051b16165)
@@ -2492,7 +2488,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 2d7a6b10-6ad2-466d-9d83-c2704b11add8)
   )
-  (polyline (pts (xy 171.45 231.775) (xy 171.45 285.115))
+  (polyline (pts (xy 139.7 231.902) (xy 139.7 285.242))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 2dcac367-bf3e-4c49-8bd7-6af263b7ffc3)
   )
